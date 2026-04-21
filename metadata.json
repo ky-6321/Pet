@@ -1,0 +1,8 @@
+{
+  "name": "ACD Pet Poll & Photo Wall",
+  "description": "Interactive polling and real-time photo sharing app for meetings.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
